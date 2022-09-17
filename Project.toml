@@ -1,0 +1,7 @@
+name = "Financialist"
+uuid = "9a535f5a-1fe4-4e26-8808-4f2472b37a02"
+authors = ["Adrian <ronaldo13_96@outlook.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
