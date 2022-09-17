@@ -1,5 +1,1 @@
-module investor
-    
-    include("interestRate.jl")
-
-end
+include("InterestRate.jl")

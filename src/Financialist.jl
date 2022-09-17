@@ -1,6 +1,5 @@
 module Financialist
 
-    using ..investor: interestRate
-
+    include("investor/Investor.jl")
 
 end # module Financialist

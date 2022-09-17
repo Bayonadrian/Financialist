@@ -1,4 +1,4 @@
-include("types.jl")
+include("Types.jl")
 
 struct interestRate <: interest
 
